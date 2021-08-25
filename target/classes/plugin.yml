@@ -1,0 +1,11 @@
+name: SetHealth
+version: 1.2
+main: me.ZedBear.SetHealth.Main
+api-version: 1.17
+authors: [ ZedBear ]
+description: Quick and easy SetHealth Command!
+commands:
+  sethealth:
+    description: Set the Health of a target!
+    usgae: /<command>
+    aliases: [ sh ]
